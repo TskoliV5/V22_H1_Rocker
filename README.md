@@ -9,7 +9,8 @@ Rocking chair hreyfingin hjá okkur var frekar slöpp og við ætlum að skrifa 
 Meira sem við höfðum geta gert fyrir þetta verkefni er að forrita augun einhvernegin eða hylja grunnin með meiri fötum eða klæði, setja hreifingu á hendurnar hefði líka virkað vel.
 
 við viljum mæla með ef einhver býr til PIR hreyfiskynjara fyrir verkefnið sitt að fylgja því sem við gerðum:
-
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112544.jpg)
 
 
 <h2>3D hlutir</h2>
@@ -32,8 +33,7 @@ https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112531.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112534.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112537.jpg)
-![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
-![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112544.jpg)
+
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115222.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115225.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115829.jpg)
