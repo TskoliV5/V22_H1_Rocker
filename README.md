@@ -15,3 +15,7 @@ mindir
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112537.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112544.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115222.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115225.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_115829.jpg)
+![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_121023.jpg)
