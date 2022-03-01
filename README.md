@@ -11,6 +11,7 @@ https://www.youtube.com/watch?v=7kny4vyDyPI<br>
 https://www.youtube.com/watch?v=O4jVwFWHEDI<br>
 https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
 <h2>mindir</h2><br>
+
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112517.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112521.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112524.jpg)
