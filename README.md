@@ -1,6 +1,5 @@
 # Verksmiðja I - Lokaverkefni
-<h1>Lokaverkefni</h1>
-<h2>3D hlutir</h2> <br>
+<h2>3D hlutir</h2>
 https://www.thingiverse.com/thing:2187167<br>
 https://www.thingiverse.com/thing:194928<br>
 https://www.thingiverse.com/thing:4476934/files<br>
