@@ -9,14 +9,16 @@ Rocking chair hreyfingin hjá okkur var frekar slöpp og við ætlum að skrifa 
 Meira sem við höfðum geta gert fyrir þetta verkefni er að forrita augun einhvernegin eða hylja grunnin með meiri fötum eða klæði, setja hreifingu á hendurnar hefði líka virkað vel.
 
 <h2>Myndbönd</h2>
-https://www.youtube.com/watch?v=7kny4vyDyPI<br>
-https://www.youtube.com/watch?v=O4jVwFWHEDI<br>
-https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
+- https://www.youtube.com/watch?v=7kny4vyDyPI<br>
+- https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
 <br>
 
 við viljum mæla með ef einhver býr til PIR hreyfiskynjara fyrir verkefnið sitt að fylgja því sem við gerðum:
+
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112544.jpg)
+
+---
 
 <h2>3D hlutir</h2>
 https://www.thingiverse.com/thing:2187167<br>
@@ -24,6 +26,8 @@ https://www.thingiverse.com/thing:194928<br>
 https://www.thingiverse.com/thing:4476934/files<br>
 https://www.thingiverse.com/thing:4975358<br>
 <br>
+
+---
 
 <h2>Myndir</h2>
 
