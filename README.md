@@ -9,6 +9,7 @@ Rocking chair hreyfingin hjá okkur var frekar slöpp og við ætlum að skrifa 
 Meira sem við höfðum geta gert fyrir þetta verkefni er að forrita augun einhvernegin eða hylja grunnin með meiri fötum eða klæði, setja hreifingu á hendurnar hefði líka virkað vel.
 
 <h2>Myndbönd</h2>
+
 - https://www.youtube.com/watch?v=7kny4vyDyPI<br>
 - https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
 
