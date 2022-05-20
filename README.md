@@ -11,7 +11,6 @@ Meira sem við höfðum geta gert fyrir þetta verkefni er að forrita augun ein
 <h2>Myndbönd</h2>
 - https://www.youtube.com/watch?v=7kny4vyDyPI<br>
 - https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
-<br>
 
 ---
 
