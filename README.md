@@ -13,6 +13,9 @@ Meira sem við höfðum geta gert fyrir þetta verkefni er að forrita augun ein
 - https://www.youtube.com/watch?v=LZ2oXUeZ5io<br>
 <br>
 
+---
+
+<h2>PIR hreyfiskynjari</h2>
 við viljum mæla með ef einhver býr til PIR hreyfiskynjara fyrir verkefnið sitt að fylgja því sem við gerðum:
 
 ![mind](https://github.com/gitmaus1/vesmlok/blob/main/vesm/IMG_20220301_112542.jpg)
